@@ -8,7 +8,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 # Snapshot:
 
 ### Home
-![Home](Photo/home.png)
+![Home](home.PNG)
 
 ### Note
-![Notes](Photo/note.png)
+![Notes](note.PNG)
