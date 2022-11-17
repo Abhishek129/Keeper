@@ -11,4 +11,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ![Home](home.PNG)
 
 ### Note
-![Notes](note.PNG)
+![Notes](notes.PNG)
